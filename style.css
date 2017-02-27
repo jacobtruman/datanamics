@@ -1,0 +1,322 @@
+html,
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    padding:0;
+    height:100%;
+}
+
+select {
+    font-size: 10pt;
+    font-family: Verdana, sans-serif;
+}
+
+label {
+    font-size: 12pt;
+    font-family: Verdana, sans-serif;
+}
+
+hr {
+    border-top: 1px dashed #FF0000;
+    border-bottom: 1px dashed #FF0000;
+    border-left: 0;
+    border-right: 0;
+}
+
+.header4 {
+    font-size: 15pt;
+    font-family: Verdana, sans-serif;
+}
+
+.header3 {
+    font-size: 12pt;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.ms-underline {
+    border: 0 solid #C0C0C0;
+    border-bottom-width: 2px;
+}
+
+.sw-main {
+    border-right: 50px solid #000000;
+}
+
+.sw-bannerframe {
+    background-color: #000000;
+    border: 0 solid #FF0000;
+    border-bottom-width: 4px;
+}
+
+.sw-main-old {
+    border-right: 50px solid #5f8ac5;
+}
+
+.sw-bannerframe-old {
+    background-color: #5f8ac5;
+    border: 0 solid #FFCC00;
+    border-bottom-width: 4px;
+}
+
+.sw-main-christmas {
+    border-right: 50px solid #FF0000;
+}
+
+.sw-bannerframe-christmas {
+    background-color: #FF0000;
+    border: 0 solid #008000;
+    border-bottom-width: 4px;
+}
+
+.sw-main-thanksgiving {
+    border-right: 50px solid #a52a2a;
+}
+
+.sw-bannerframe-thanksgiving {
+    background-color: #a52a2a;
+    border: 0 solid #FFA500;
+    border-bottom-width: 4px;
+}
+
+.sw-main-vday {
+    border-right: 50px solid #FF0000;
+}
+
+.sw-bannerframe-vday {
+    background-color: #FF0000;
+    border: 0 solid #B005AA;
+    border-bottom-width: 4px;
+}
+
+.sw-main-stpatricks {
+    border-right: 50px solid #026421;
+}
+
+.sw-bannerframe-stpatricks {
+    background-color: #026421;
+    border: 0 solid #000000;
+    border-bottom-width: 4px;
+}
+
+.sw-main-winter {
+    border-right: 50px solid #4B7AD6;
+}
+
+.sw-bannerframe-winter {
+    background-color: #4B7AD6;
+    border: 0 solid #A0CAF9;
+    border-bottom-width: 4px;
+}
+
+.sw-main-halloweendaytime {
+    border-right: 50px solid #FFA500;
+}
+
+.sw-bannerframe-halloweendaytime {
+    background-color: #FFA500;
+    border: 0 solid #000000;
+    border-bottom-width: 4px;
+}
+
+.sw-main-halloweennighttime {
+    border-right: 50px solid #000000;
+}
+
+.sw-bannerframe-halloweennighttime {
+    background-color: #000000;
+    border: 0 solid #FFA500;
+    border-bottom-width: 4px;
+}
+
+.sw-main-july4 {
+    border-right: 50px solid #FF0000;
+}
+
+.sw-bannerframe-july4 {
+    background-color: #FF0000;
+    border: 0 solid #0000FF;
+    border-bottom-width: 4px;
+}
+
+.formfield {
+    border: 1px solid #000000;
+    font-size: 12pt;
+    cursor: auto;
+    color: #000000;
+    font-family: Verdana, sans-serif;
+}
+
+.formbutton {
+    border: 1px solid #575757;
+    font-size: 12pt;
+    cursor: pointer;
+    color: #000000;
+    font-family: Verdana, sans-serif;
+}
+
+.cal_hand {
+    cursor: pointer;
+}
+
+.textbutton {
+    border: 0 solid #575757;
+    font-size: 12pt;
+    cursor: pointer;
+    color: #000000;
+    font-family: Verdana, sans-serif;
+    background-color: transparent;
+}
+
+.fing {
+    cursor: url('/cursors/finger.cur');
+}
+
+table.structure {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+td {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+td.topbar {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+td.leftbar {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+td.mainwin {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+.dotted {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    border-bottom: 1px dotted #858585;
+    border-right: 1px dotted #858585;
+}
+
+.dottedul {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    border-bottom: 1px dotted #858585;
+}
+
+.alldotted {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    border: 1px dotted #858585;
+}
+
+.dashed {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    border-bottom: 1px dashed #858585;
+    border-right: 1px dashed #858585;
+}
+
+.alldashed {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    border: 1px dashed #858585;
+}
+
+.logout {
+    border: 1px dotted #585858;
+    font-size: 12pt;
+    cursor: pointer;
+    font-family: Verdana, sans-serif;
+    background-color: transparent;
+    text-decoration: none;
+    color: #000000;
+}
+
+.topReport {
+    font-size: 24pt;
+    font-family: Verdana, sans-serif;
+    background-color: transparent;
+    text-decoration: none;
+    color: #ebdd00;
+}
+
+.topReportRed {
+    font-size: 28pt;
+    font-family: Verdana, sans-serif;
+    background-color: transparent;
+    text-decoration: blink;
+    color: #000000;
+    font-weight: bold;
+}
+
+.dottedTitle {
+    font-family: Verdana, sans-serif;
+    font-size: 18pt;
+    border-bottom: 1px dotted #858585;
+    border-right: 1px dotted #858585;
+    color: #FFFFFF;
+}
+
+.reportBody {
+    background-color: #103454;
+}
+
+.hidden {
+    position: absolute;
+    visibility: hidden;
+}
+
+.footer {
+    font-family: verdana, sans-serif;
+    font-size: 8pt;
+}
+
+.footer_date {
+    color: #FF0000;
+}
+
+
+div {
+    /*outline: 1px solid;*/
+    vertical-align: middle;
+}
+
+#content {
+    min-height: 100%;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.content {
+    min-height: 100%;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+#footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:20px;
+}
+
+.table {
+    display: table;
+}
+
+.row  {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
